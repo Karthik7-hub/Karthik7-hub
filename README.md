@@ -46,16 +46,17 @@
 ## 📊 GitHub Overview
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Karthik7-hub&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&cache_seconds=86400"
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=Karthik7-hub&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"
     height="165"
     alt="GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik7-hub&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=86400"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Karthik7-hub&layout=compact&hide_border=true&theme=tokyonight"
     height="165"
     alt="Top Languages"
   />
 </p>
+
 
 ---
 
