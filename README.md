@@ -44,9 +44,17 @@
 ---
 
 ## 📊 GitHub Overview
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Karthik7-hub&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=86400" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik7-hub&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=86400" height="165"/>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Karthik7-hub&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&cache_seconds=86400"
+    height="165"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik7-hub&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=86400"
+    height="165"
+    alt="Top Languages"
+  />
 </p>
 
 ---
