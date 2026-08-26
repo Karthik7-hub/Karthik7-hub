@@ -1,49 +1,103 @@
-# Hi, I’m Vana Karthik 👋
+# Hi, I'm Vana Karthik
 
-🎓 Computer Science Undergraduate @ **NIT Raipur**  
-💻 Full Stack Developer  
+**I enjoy turning ideas into working software - building real-world applications, exploring new technologies, and understanding how things work under the hood.**
 
-> I believe the best way to learn is by **building**.
+> **I believe the best way to learn is by building.**
 
-![Profile Views](https://komarev.com/ghpvc/?username=Karthik7-hub&label=Profile%20Views&color=0e75b6&style=flat)
-
----
-
-## 📫 Contact Me
 <p align="left">
-  <a href="mailto:vkarthik4321@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/vana-karthik-36aa25290">
-    <img src="https://img.shields.io/badge/LinkedIn-Vana%20Karthik-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://github.com/Karthik7-hub">
-    <img src="https://img.shields.io/badge/GitHub-Karthik7--hub-black?style=for-the-badge&logo=github"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Karthik7-hub&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
+
+* 🎓 Pursuing **B.Tech in Computer Science & Engineering** at **NIT Raipur**
+* 💻 Full Stack Developer focused on building complete, production-oriented applications
+* ⚡ Interested in **real-time systems, backend architecture, performance, and scalable software**
+* 🧠 Exploring **AI/ML, systems programming, and developer tools**
+* 🛠️ I learn by **building, experimenting, breaking things, and rebuilding them better**
+
+---
+
+## Tech Stack
+
+### Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,java,js,html,css,react,nodejs,express,mysql,mongodb,git,github,vscode"/>
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,python" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
+
+### Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 </p>
 
 ---
 
-## 📌 Projects
+## Featured Projects
 
-### 🔹 **ANAND_UTSAV**  
-> *“A digital marketplace for every celebration.”*
+### 🔹 ANAND_UTSAV
+
+**A digital marketplace for every celebration.**
+
+A full-stack marketplace built to connect users with celebration-related products and services.
+
+**Tech:** React · Node.js · Express · MongoDB
 
 ---
 
-### 🔹 **AUCTIONSYSTEM-FRONTEND**  
-> *“Real-time bidding, built for speed and fairness.”*
+### 🔹 AUCTIONSYSTEM
+
+**Real-time bidding, built for speed and fairness.**
+
+A real-time auction platform featuring live bidding, auction management, synchronized participants, and Socket.IO-powered communication.
+
+**Tech:** React · Node.js · Express · MongoDB · Socket.IO
 
 ---
 
-## 📊 GitHub Overview
+### 🔹 LAN ARCADE
+
+**A local multiplayer gaming platform.**
+
+A LAN-based game hosting platform designed around local networking, real-time multiplayer experiences, and a modular game-plugin architecture.
+
+**Tech:** Flutter · Dart · SQLite · QuickJS · mDNS/UDP
+
+---
+
+## What I'm Building
+
+I'm particularly interested in software that involves:
+
+* Real-time communication
+* Backend & system architecture
+* Networked applications
+* AI/ML systems
+* Developer tools
+* Performance optimization
+* Full-stack product development
+
+I enjoy projects where there is something challenging to **design, understand, optimize, or build from scratch.**
+
+---
+
+## GitHub Overview
+
 <p align="center">
   <img
     src="https://github-readme-stats-eight-theta.vercel.app/api?username=Karthik7-hub&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"
@@ -57,7 +111,29 @@
   />
 </p>
 
+---
+
+## Connect With Me
+
+## Connect With Me
+
+<p align="left">
+  <a href="mailto:vkarthik4321@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/vana-karthik-36aa25290">
+    <img src="https://img.shields.io/badge/LinkedIn-Vana%20Karthik-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Karthik7-hub">
+    <img src="https://img.shields.io/badge/GitHub-Karthik7--hub-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://karthikvana.me/">
+    <img src="https://img.shields.io/badge/Portfolio-karthikvana.me-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-✨ *Open to new opportunities and meaningful collaborations.*
+> **Build. Break. Learn. Repeat.**
+
+Open to interesting projects, meaningful collaborations, and opportunities to build something useful.
